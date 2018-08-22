@@ -2,7 +2,8 @@
 Load Testing for Strength project
 
 ## Prerequisite
-* Java 9+ `brew install java`
+* Java 8 `brew tap caskroom/versions; brew cask install java8`
+* Note: Gattling 2.3 only works on java8. https://gatling.io/docs/2.3/quickstart/
 
 ## Install Gatling
 For now, just download the whole distribution via command line
