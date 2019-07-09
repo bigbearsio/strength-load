@@ -39,3 +39,10 @@ sbt gatling:test
 
 ## Diagram
 ![Diagram](diagram.png)
+
+
+## Aggregrating Gatling result 
+set GATLING_HOME environment variable to local gatling setup
+```
+./gatling-aggregate.sh
+```
